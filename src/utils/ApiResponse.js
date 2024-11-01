@@ -8,4 +8,6 @@ class ApiResponse {
   }
 }
 
+export { ApiResponse };
+
 // The ApiResponse class provides a consistent structure for API responses, which is especially useful in a RESTful API. Instead of manually creating response objects each time, you can create an ApiResponse instance and send it as the response.
